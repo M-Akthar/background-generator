@@ -1,3 +1,3 @@
 # background-generator
 
-A small project that helped me practise DOM manipulation.
+A small project that helped me practice DOM manipulation.
